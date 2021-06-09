@@ -1,0 +1,815 @@
+@media (min-width: 426px) and (max-width: 575px) {
+    .banner_content p {
+        font-size: 14px;
+        margin-top: 10px;
+        margin-left: 18px;
+    }
+    .burger2_text h2 {
+        font-size: 21px;
+    }
+    .burger2_text h6 {
+        font-size: 14px;
+        margin-top: -28%;
+    }
+    .burger3_text h2 {
+        font-size: 22px;
+    }
+    .burger3_text h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .burger4_text h2 {
+        font-size: 22px;
+    }
+    .burger4_text {
+        margin-top: -2%;
+    }
+    .burger4_text h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .banner_content h1 {
+        font-size: 70px;
+        margin-left: 18px;
+    }
+    .banner_content h2 {
+        margin-left: 18px;
+    }
+    .bnr_img {
+        position: absolute;
+        top: 20%;
+        left: 16%;
+        width: 90%;
+    }
+    .banner_content {
+        position: relative;
+        min-height: 90vh;
+    }
+    .burger2_img {
+        margin-top: -60px;
+    }
+    .feature_img {
+        margin-top: -12% !important;
+    }
+    .choose {
+        margin-top: -10%;
+    }
+    .burger_img {
+        margin-left: 6%;
+        margin-top: 40px;
+    }
+    .burger_img2 {
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+    .event_text {
+        margin: 0px 0px 0 16px !important;
+    }
+    .event_text h3 {
+        font-size: 18px;
+        margin-top: -1%;
+    }
+    .event_text h2 {
+        /* font-size: 18px; */
+        font-size: 20px !important;
+        letter-spacing: 1px;
+    }
+    .event_text p {
+        font-size: 13px !important;
+    }
+    .reserve {
+        margin-top: -10%;
+    }
+    .reserve h4 {
+        margin-top: 0;
+        font-size: 22px;
+    }
+    .reserve h2 {
+        margin-bottom: 0;
+        /* margin-left: 8%; */
+        font-size: 28px;
+    }
+    form {
+        width: 55% !important;
+        /* align-items: center !important; */
+        margin-left: 20%;
+    }
+    .reserve1 {
+        width: 30%;
+        margin-top: 7%;
+    }
+    .reserve3 {
+        width: 32% !important;
+        margin-top: 20% !important;
+    }
+    .bottle {
+        width: 50% !important;
+        margin-left: -12% !important;
+        margin-top: -12% !important;
+    }
+    .ftr {
+        margin-top: -10%;
+    }
+    .ftr .logo {
+        width: 50%;
+    }
+    .r_content {
+        margin: -37% 0% 0% 29%;
+        font-size: 16px;
+    }
+    .r_content i {
+        font-size: 12px;
+    }
+    .r_content p {
+        font-size: 10px;
+    }
+    .f_l_end p {
+        font-size: 10px;
+        margin: 6% 0% 0% 0%;
+    }
+    .f_r_end ul {
+        margin: -28% 0% 0% 7%;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+    .banner_content h1 {
+        font-size: 70px;
+    }
+    .choose {
+        margin-top: -10%;
+    }
+    .burger_img {
+        margin-left: 10%;
+        margin-top: 40px;
+    }
+    .burger_img2 {
+        margin-top: 10%;
+        margin-left: 12%;
+    }
+    .event_text {
+        margin: 0px 0px 0 16px !important;
+    }
+    .event_text h3 {
+        /* font-size: 20px; */
+        /* margin-top: -2%; */
+    }
+    .event_text h2 {
+        font-size: 25px;
+    }
+    .event_text p {
+        font-size: 17px;
+    }
+    .reserve1 {
+        width: 31%;
+        margin-top: 5%;
+    }
+    .reserve3 {
+        width: 23%;
+        margin-top: 16%;
+    }
+    .bottle {
+        width: 50% !important;
+        margin-left: -12%;
+        margin-top: -3%;
+    }
+    .reserve {
+        margin-top: -10%;
+    }
+    .r_content i {
+        font-size: 18px;
+        margin: 3% 0 0 -18%;
+    }
+    .r_content p {
+        font-size: 12px;
+        margin: 9% 0 0 0%;
+        margin-left: 19px;
+    }
+    .f_l_end p {
+        font-size: 13px;
+        margin: 16% 0% 0% 8%;
+    }
+    .f_r_end ul {
+        margin: 15% 0% 0% -8%;
+    }
+    .burger2_text h2 {
+        font-size: 21px;
+    }
+    .burger2_text h6 {
+        font-size: 14px;
+    }
+    .burger3_text h2 {
+        font-size: 22px;
+    }
+    .burger3_text h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .burger4_text h2 {
+        font-size: 22px;
+    }
+    .burger4_text h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+}
+
+
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+    .reserve1 {
+        width: 30%;
+        margin-top: 0%;
+    }
+    
+    .reserve3 {
+        width: 22%;
+        margin-top: 10%;
+    }
+    
+    .bottle {
+        width: 50% !important;
+        margin-left: -6%;
+        margin-top: -2%;
+    }
+    
+    .event_text h3 {
+        font-size: 35px !important;
+        margin-top: -8% !important;
+    }
+    
+    .event_text h2 {
+        font-size: 44px !important;
+    }
+    
+    .event_text p {
+        font-size: 19px;
+    }
+    
+    .h_row {
+        margin-top: -8% !important;
+    }
+}
+@media (min-width: 1025px) and (max-width: 1440px) {
+    .h_row {
+        margin-top: -8% !important;
+        /* min-height: 100vh !important; */
+    }
+    
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 25px;
+    }
+}
+@media (min-width: 0px) and (max-width: 320px) {
+    .banner_content p {
+        font-size: 12px;
+        margin-top: 8px;
+        margin-left: 12px;
+    }
+    
+    .banner_content h1 {
+        font-size: 55px;
+        margin-left: 14px;
+    }
+    
+    .banner_content h2 {
+        margin-left: 12px;
+        font-size: 40px;
+        text-transform: uppercase;
+    }
+    
+    .bnr_img {
+        position: absolute;
+        top: 50%;
+        left: 5%;
+        width: 100%;
+    }
+    
+    .banner_content {
+        position: relative;
+        min-height: 90vh;
+    }
+    
+    .burger2_img {
+        margin-top: -60px;
+    }
+    
+    .burger2_img {
+        margin-top: -60px;
+    }
+    
+    .feature_img {
+        margin-top: -30% !important;
+        margin-bottom: 0 !important;
+    }
+    
+    .choose {
+        margin-top: -10%;
+    }
+    
+    .burger_img {
+        margin-left: 6%;
+        margin-top: 40px;
+    }
+    
+    .burger_img2 {
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+    
+    .event_text {
+        margin: 0px 0px 0 16px !important;
+    }
+    
+    .event_text h3 {
+        font-size: 10px !important;
+        margin-top: 0%;
+    }
+    
+    .event_text h2 {
+        /* font-size: 18px !important; */
+        font-size: 12px !important;
+        letter-spacing: 0px;
+    }
+    
+    .event_text p {
+        font-size: 8px !important;
+    }
+    
+    .reserve {
+        margin-top: 3%;
+    }
+    
+    .reserve h4 {
+        margin-top: -35px;
+        font-size: 22px;
+    }
+    
+    .reserve h2 {
+        margin-bottom: 0;
+        /* margin-left: 8%; */
+        font-size: 28px;
+    }
+    
+    form {
+        width: 55% !important;
+        /* align-items: center !important; */
+        margin-left: 20%;
+    }
+    
+    .reserve1 {
+        width: 39%;
+        margin-top: 16%;
+    }
+    
+    .reserve3 {
+        width: 34% !important;
+        margin-top: 50% !important;
+    }
+    
+    .bottle {
+        width: 47% !important;
+        margin-left: -12% !important;
+        margin-top: 58% !important;
+    }
+    
+    .ftr {
+        margin-top: -10%;
+    }
+    
+    .ftr .logo {
+        width: 80%;
+    }
+    
+    .r_content {
+        margin: -17% 0% 0% -5%;
+        font-size: 16px;
+    }
+    
+    .r_content i {
+        font-size: 12px;
+    }
+    
+    .r_content p {
+        font-size: 9px;
+    }
+    
+    .f_l_end p {
+        font-size: 9px;
+        margin: 13% 0% 0% -6%;
+    }
+    
+    .f_r_end ul {
+        margin: -30% 0% 0% 0%;
+        font-size: 14px;
+    }
+    
+    .burger2_text h2 {
+        font-size: 21px;
+    }
+    
+    .burger2_text h6 {
+        font-size: 14px;
+        margin-top: -28%;
+    }
+    
+    .burger3_text h2 {
+        font-size: 22px;
+    }
+    
+    .burger3_text h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    
+    .burger4_text h2 {
+        font-size: 22px;
+    }
+    
+    .burger4_text {
+        margin-top: -2%;
+    }
+    
+    .burger4_text h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    
+    .event_img {
+        margin-top: 42px;
+    }
+}
+@media (min-width:321px) and (max-width: 375px) {
+    .banner_content p {
+        font-size: 12px;
+        margin-top: 8px;
+        margin-left: 12px;
+    }
+    
+    .banner_content h1 {
+        font-size: 55px;
+        margin-left: 14px;
+    }
+    
+    .banner_content h2 {
+        margin-left: 12px;
+        font-size: 40px;
+        text-transform: uppercase;
+    }
+    
+    .bnr_img {
+        position: absolute;
+        top: 42%;
+        left: 7%;
+        width: 100%;
+    }
+    
+    .banner_content {
+        position: relative;
+        min-height: 90vh;
+    }
+    
+    .burger2_img {
+        margin-top: -60px;
+    }
+    
+    .burger2_img {
+        margin-top: -60px;
+    }
+    
+    .feature_img {
+        margin-top: -30% !important;
+        margin-bottom: 0 !important;
+    }
+    
+    .choose {
+        margin-top: -10%;
+    }
+    
+    .burger_img {
+        margin-left: 6%;
+        margin-top: 40px;
+    }
+    
+    .burger_img2 {
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+    
+    .event_text {
+        margin: 0px 0px 0 16px !important;
+    }
+    
+    .event_text h3 {
+        font-size: 10px !important;
+        margin-top: 0%;
+    }
+    
+    .event_text h2 {
+        /* font-size: 18px !important; */
+        font-size: 12px !important;
+        letter-spacing: 0px;
+    }
+    
+    .event_text p {
+        font-size: 9px !important;
+    }
+    
+    .reserve {
+        margin-top: 3%;
+    }
+    
+    .reserve h4 {
+        margin-top: -35px;
+        font-size: 22px;
+    }
+    
+    .reserve h2 {
+        margin-bottom: 0;
+        /* margin-left: 8%; */
+        font-size: 28px;
+    }
+    
+    form {
+        width: 55% !important;
+        /* align-items: center !important; */
+        margin-left: 20%;
+    }
+    
+    .reserve1 {
+        width: 39%;
+        margin-top: 8%;
+    }
+    
+    .reserve3 {
+        width: 34% !important;
+        margin-top: 50% !important;
+    }
+    
+    .bottle {
+        width: 47% !important;
+        margin-left: -12% !important;
+        margin-top: 36% !important;
+    }
+    
+    .ftr {
+        margin-top: -10%;
+    }
+    
+    .ftr .logo {
+        width: 80%;
+    }
+    
+    .r_content {
+        margin: -17% 0% 0% -5%;
+        font-size: 16px;
+    }
+    
+    .r_content i {
+        font-size: 12px;
+    }
+    
+    .r_content p {
+        font-size: 9px;
+    }
+    
+    .f_l_end p {
+        font-size: 9px;
+        margin: 2% 0% 0% -6%;
+    }
+    
+    .f_r_end ul {
+        margin: -31% 0% 0% 0%;
+        font-size: 14px;
+    }
+    
+    .burger2_text h2 {
+        font-size: 21px;
+    }
+    
+    .burger2_text h6 {
+        font-size: 14px;
+        margin-top: -28%;
+    }
+    
+    .burger3_text h2 {
+        font-size: 22px;
+    }
+    
+    .burger3_text h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    
+    .burger4_text h2 {
+        font-size: 22px;
+    }
+    
+    .burger4_text {
+        margin-top: -2%;
+    }
+    
+    .burger4_text h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    
+    .event_img {
+        margin-top: 23px;
+    }
+}
+@media (min-width:376px) and (max-width: 425px) {
+    .banner_content p {
+        font-size: 12px;
+        margin-top: 8px;
+        margin-left: 12px;
+    }
+    
+    .banner_content h1 {
+        font-size: 55px;
+        margin-left: 14px;
+    }
+    
+    .banner_content h2 {
+        margin-left: 12px;
+        font-size: 40px;
+        text-transform: uppercase;
+    }
+    
+    .bnr_img {
+        position: absolute;
+        top: 30%;
+        left: 8%;
+        width: 100%;
+    }
+    
+    .banner_content {
+        position: relative;
+        min-height: 90vh;
+    }
+    
+    .burger2_img {
+        margin-top: -60px;
+    }
+    
+    .burger2_img {
+        margin-top: -60px;
+    }
+    
+    .feature_img {
+        margin-top: -30% !important;
+        margin-bottom: 0 !important;
+    }
+    
+    .choose {
+        margin-top: -10%;
+    }
+    
+    .burger_img {
+        margin-left: 6%;
+        margin-top: 40px;
+    }
+    
+    .burger_img2 {
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+    
+    .event_text {
+        margin: 0px 0px 0 16px !important;
+    }
+    
+    .event_text h3 {
+        font-size: 12px !important;
+        margin-top: 0%;
+    }
+    
+    .event_text h2 {
+        /* font-size: 18px !important; */
+        font-size: 14px !important;
+        letter-spacing: 0px;
+    }
+    
+    .event_text p {
+        font-size: 9px !important;
+    }
+    
+    .reserve {
+        margin-top: 3%;
+    }
+    
+    .reserve h4 {
+        margin-top: -35px;
+        font-size: 22px;
+    }
+    
+    .reserve h2 {
+        margin-bottom: 0;
+        /* margin-left: 8%; */
+        font-size: 28px;
+    }
+    
+    form {
+        width: 55% !important;
+        /* align-items: center !important; */
+        margin-left: 20%;
+    }
+    
+    .reserve1 {
+        width: 37%;
+        margin-top: 7%;
+    }
+    
+    .reserve3 {
+        width: 34% !important;
+        margin-top: 38% !important;
+    }
+    
+    .bottle {
+        width: 47% !important;
+        margin-left: -12% !important;
+        margin-top: 21% !important;
+    }
+    
+    .ftr {
+        margin-top: -10%;
+    }
+    
+    .ftr .logo {
+        width: 80%;
+    }
+    
+    .r_content {
+        margin: -17% 0% 0% -5%;
+        font-size: 16px;
+    }
+    
+    .r_content i {
+        font-size: 12px;
+    }
+    
+    .r_content p {
+        font-size: 9px;
+    }
+    
+    .f_l_end p {
+        font-size: 10px;
+        margin: -8% 0% 0% -4%;
+    }
+    
+    .f_r_end ul {
+        margin: -30% 0% 0% 0%;
+        font-size: 14px;
+    }
+    
+    .burger2_text h2 {
+        font-size: 21px;
+    }
+    
+    .burger2_text h6 {
+        font-size: 14px;
+        margin-top: -28%;
+    }
+    
+    .burger3_text h2 {
+        font-size: 22px;
+    }
+    
+    .burger3_text h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    
+    .burger4_text h2 {
+        font-size: 22px;
+    }
+    
+    .burger4_text {
+        margin-top: -2%;
+    }
+    
+    .burger4_text h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    
+    .event_img {
+        margin-top: 1px;
+    }
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+    .reserve1 {
+        width: 80% !important;
+    }
+    
+    .bottle {
+        margin-top: 1%;
+        margin-left: -7%;
+    }
+    
+    .reserve3 {
+        width: 23%;
+        margin-top: 11%;
+    }
+}
